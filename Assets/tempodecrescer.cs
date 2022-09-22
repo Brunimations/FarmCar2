@@ -68,6 +68,10 @@ public class tempodecrescer : MonoBehaviour
         {
             Destroy(obroto);
         }
+                if(other.gameObject.tag == "pombo")
+        {
+            Destroy(obroto);
+        }
     }  
     
 

@@ -1307,6 +1307,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5274347705315815455, guid: f101616c31c161244a6d91437d141616, type: 3}
+      propertyPath: m_TagString
+      value: pombo
+      objectReference: {fileID: 0}
     - target: {fileID: 7501717899928598047, guid: f101616c31c161244a6d91437d141616, type: 3}
       propertyPath: m_RootOrder
       value: 2
