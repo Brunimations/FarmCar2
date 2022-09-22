@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/principal.unity
+    guid: e3dbbc317509f48419a2b7f1d77aa7eb
+  - enabled: 1
+    path: Assets/Scenes/casa.unity
+    guid: bb17091409a05e344aa9d224709addb6
+  - enabled: 1
+    path: Assets/carrim2.unity
+    guid: a626e679ccf3603498e8c2bdef04fae6
+  - enabled: 1
+    path: Assets/testingrooms.unity
+    guid: ca056b25abe4eb24da0572c0afb906c4
+  - enabled: 1
+    path: Assets/Scenes/casainterior.unity
+    guid: be0cad85cf0944649bfb7211e3f5653d
+  m_configObjects: {}
